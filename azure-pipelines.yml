@@ -31,4 +31,10 @@ stages:
       - job:
         displayName: unit tests job
         steps:
+          - task: DotNetCoreCLI@2
+            displayName: Run Visual studio tests
+            inputs:
+              command: test
+              projects: '**/*Tests/*.csproj'
+              arguments: '--configuration debug'
           
