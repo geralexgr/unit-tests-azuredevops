@@ -35,6 +35,6 @@ stages:
             displayName: Run Visual studio tests
             inputs:
               command: test
-              projects: '**/*Test/*.csproj'
+              projects: '**/*Test*/*.csproj'
               arguments: '--configuration debug'
           
