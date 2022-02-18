@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tM4x0q+qTXcoCWPiFKUNZsor4e1B7tKxiJR5zmWqbCs9X5BREQb2ACDEzjm0+7d7+cX/mKs6pM4IECQeR2QoQQ==",
-  "success": false,
-  "projectFilePath": "C:\\Users\\galexiou\\Desktop\\ConsoleApp1\\TestProject1\\TestProject1.csproj",
+  "dgSpecHash": "z6cuwxo0mFRnBfU/H6jo2klxkVs5UZy1xE/tvJ9FztCWDJbNyqjJrzJy6sXAvt0V+iqL5x/keIhBUpSNWWEj0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\galexiou\\Desktop\\AzureDevopsUnitTestsExample\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\galexiou\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\galexiou\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
@@ -93,15 +93,5 @@
     "C:\\Users\\galexiou\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\galexiou\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\galexiou\\Desktop\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\galexiou\\Desktop\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

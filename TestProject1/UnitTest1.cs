@@ -8,7 +8,7 @@ namespace TestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(Program.addNumbers(2,3), 5);  
+            Assert.AreEqual(Program.addNumbers(2, 3), 5);
         }
         [TestMethod]
         public void TestMethod2()
