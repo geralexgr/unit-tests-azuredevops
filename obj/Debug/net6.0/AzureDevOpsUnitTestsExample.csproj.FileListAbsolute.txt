@@ -1,0 +1,5 @@
+C:\Users\galexiou\Documents\GitHub\unit-tests-azuredevops\obj\Debug\net6.0\AzureDevOpsUnitTestsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galexiou\Documents\GitHub\unit-tests-azuredevops\obj\Debug\net6.0\AzureDevOpsUnitTestsExample.AssemblyInfoInputs.cache
+C:\Users\galexiou\Documents\GitHub\unit-tests-azuredevops\obj\Debug\net6.0\AzureDevOpsUnitTestsExample.AssemblyInfo.cs
+C:\Users\galexiou\Documents\GitHub\unit-tests-azuredevops\obj\Debug\net6.0\AzureDevOpsUnitTestsExample.csproj.CoreCompileInputs.cache
+C:\Users\galexiou\Documents\GitHub\unit-tests-azuredevops\obj\Debug\net6.0\AzureDevOpsUnitTestsExample.csproj.AssemblyReference.cache

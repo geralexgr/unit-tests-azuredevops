@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "125b17ea-8124-4f16-832b-d022fb36d647": {
+      "ProjectGuid": "125b17ea-8124-4f16-832b-d022fb36d647",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 0
+    },
+    "0df4af2a-0883-422a-b0f0-a8171a3bcfa3": {
+      "ProjectGuid": "0df4af2a-0883-422a-b0f0-a8171a3bcfa3",
+      "DisplayName": "AzureDevOpsUnitTestsExample",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

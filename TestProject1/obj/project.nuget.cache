@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z6cuwxo0mFRnBfU/H6jo2klxkVs5UZy1xE/tvJ9FztCWDJbNyqjJrzJy6sXAvt0V+iqL5x/keIhBUpSNWWEj0g==",
+  "dgSpecHash": "T9dBGVTHrtcgmj96521pU0HBpk5BHSlIG6LdHZRO6ofS2NL1feJqmhJ4bDEENuK8KdsMULaigDH69HGkTxqWBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\galexiou\\Desktop\\AzureDevopsUnitTestsExample\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\galexiou\\Documents\\GitHub\\unit-tests-azuredevops\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\galexiou\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\galexiou\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

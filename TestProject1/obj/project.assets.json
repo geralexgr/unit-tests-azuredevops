@@ -1661,14 +1661,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "ConsoleApp2/1.0.0": {
+      "ConsoleApp/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/ConsoleApp2.dll": {}
+          "bin/placeholder/ConsoleApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ConsoleApp2.dll": {}
+          "bin/placeholder/ConsoleApp.dll": {}
         }
       }
     }
@@ -6204,15 +6204,15 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "ConsoleApp2/1.0.0": {
+    "ConsoleApp/1.0.0": {
       "type": "project",
-      "path": "../ConsoleApp2.csproj",
-      "msbuildProject": "../ConsoleApp2.csproj"
+      "path": "../ConsoleApp/ConsoleApp.csproj",
+      "msbuildProject": "../ConsoleApp/ConsoleApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "ConsoleApp2 >= 1.0.0",
+      "ConsoleApp >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.7",
       "MSTest.TestFramework >= 2.2.7",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
@@ -6225,14 +6225,13 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\galexiou\\Desktop\\AzureDevopsUnitTestsExample\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\galexiou\\Documents\\GitHub\\unit-tests-azuredevops\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\galexiou\\Desktop\\AzureDevopsUnitTestsExample\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Users\\galexiou\\Documents\\GitHub\\unit-tests-azuredevops\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\galexiou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\galexiou\\Desktop\\AzureDevopsUnitTestsExample\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\galexiou\\Documents\\GitHub\\unit-tests-azuredevops\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\galexiou\\Desktop\\NuGet.Config",
         "C:\\Users\\galexiou\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
@@ -6241,15 +6240,16 @@
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.vivapayments.com/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\galexiou\\Desktop\\AzureDevopsUnitTestsExample\\ConsoleApp2.csproj": {
-              "projectPath": "C:\\Users\\galexiou\\Desktop\\AzureDevopsUnitTestsExample\\ConsoleApp2.csproj"
+            "C:\\Users\\galexiou\\Documents\\GitHub\\unit-tests-azuredevops\\ConsoleApp\\ConsoleApp.csproj": {
+              "projectPath": "C:\\Users\\galexiou\\Documents\\GitHub\\unit-tests-azuredevops\\ConsoleApp\\ConsoleApp.csproj"
             }
           }
         }

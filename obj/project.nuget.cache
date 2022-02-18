@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+KSDuxqwlkZGDLXchYbZjD0WXqLKYwuCsxuVvL4EauAiKqX8hKwZk3h00T+Wi+1bvTn3aaz6Fj+cri5GjqUTA==",
+  "dgSpecHash": "MferBFuVgSr3Zr04X2Bo6Jiw1WkqwSzDdvQAs9mnUM3+2cjukeAgVZ4IABXaIWY63936sb+t3stLqLwIj1CzBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\galexiou\\Desktop\\AzureDevOpsUnitTestsExample\\ConsoleApp2.csproj",
+  "projectFilePath": "C:\\Users\\galexiou\\Documents\\GitHub\\unit-tests-azuredevops\\AzureDevOpsUnitTestsExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
