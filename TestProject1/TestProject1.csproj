@@ -1,10 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
-
-    <IsPackable>false</IsPackable>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+	    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+	    <IsPackable>false</IsPackable>
   </PropertyGroup>
 
   <ItemGroup>
