@@ -32,6 +32,7 @@ stages:
         displayName: unit tests job
         steps:
           - task: DotNetCoreCLI@2
+            continueOnError: true
             displayName: Run Visual studio tests
             inputs:
               command: test
